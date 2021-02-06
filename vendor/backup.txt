@@ -1,0 +1,1 @@
+https://accounts.google.com/o/oauth2/auth?response_type=code&access_type=offline&client_id=182560843475-l3quljj6eqp5nookv5aca6q74v8ion46.apps.googleusercontent.com&redirect_uri=urn:ietf:wg:oauth:2.0:oob&state&scope=https://www.googleapis.com/auth/calendar.readonly&prompt=select_account consent
